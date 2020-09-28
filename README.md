@@ -17,7 +17,7 @@ Esse projeto não necessita instalar nenhum framework ou linguagem:
 <br><h2>Autora</h2>
 <blockquote><b>Bruna Rosa</b></blockquote>
 
-<br><h2>Professoras do curso</h2>
+<br><h2>Professor do curso</h2>
 <blockquote>
 <ul> 
     <li>[Pedro Marins] -  (https://www.linkedin.com/in/pedromarins/)</li>
