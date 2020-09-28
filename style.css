@@ -1,18 +1,14 @@
-body {
-
-}
-
-#banner{
+#banner {
   width: 100%;
   height: 500px;
 }
 
-.principal{
+.principal {
   background: #CCCCCC;
   padding: 30px;
 }
 
-.titulo-principal{
+.titulo-principal {
   padding-left: 20px;
 }
 
@@ -22,32 +18,32 @@ body {
 
 p {
   text-align: center;
-  }
+}
 
-#missão{
-  font-size: 20px
+#missão {
+  font-size: 20px;
 }
 
 em strong {
   color: #FF0000;
 }
 
-.itens{
-  font-style: italic
+.itens {
+  font-style: italic;
 }
 
-.beneficios{
+.beneficios {
   background: #FFFFFF;
   padding: 20px;
 }
 
-ul{
+ul {
   display: inline-block;
   vertical-align: top;
   width: 20%;
   margin-right: 15%
 }
 
-.imagembeneficios{
+.imagembeneficios {
   width: 50%;
 }
