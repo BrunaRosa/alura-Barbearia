@@ -2,7 +2,6 @@
 header {
   background: #BBBBBB;
   padding: 20px 0;
-  /* margin: 0 auto; */
 }
 
 nav {
@@ -37,11 +36,10 @@ nav a:hover {
 
 #banner {
   width: 100%;
-  /* height: 500px; */
 }
 
 .principal {
-  background: #fbf3f3c7;
+  background: #BBBBBB;
   padding: 30px;
 }
 
@@ -51,10 +49,14 @@ nav a:hover {
 
 .titulo-centralizado {
   text-align: center;
+  font-weight: bold;
+  font-size: 20px;
+  padding: 10px;
 }
 
 p {
   text-align: center;
+  padding: 7px 7px;
 }
 
 #missão {
@@ -71,16 +73,28 @@ em strong {
 
 .beneficios {
   background: #FFFFFF;
-  padding: 20px;
+  padding: 20px 90px;
 }
 
 .beneficios ul {
   display: inline-block;
   vertical-align: top;
   width: 20%;
-  margin-right: 15%
+  margin-right: 15%;
 }
 
 .imagembeneficios {
   width: 50%;
+}
+
+footer {
+  text-align: center;
+  background: url("img/bg.jpg");
+  padding: 40px 0;
+}
+
+.copyright {
+  color: #FFFFFF;
+  font-size: 13px;
+  margin: 20px 0;
 }
