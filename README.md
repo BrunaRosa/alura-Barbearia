@@ -5,7 +5,7 @@ Esse site foi criado durante as aulas de HTML5 e CSS3 feitos na Alura.
 <img src= "./img/icones-css-html.jpeg" alt= "Icones do HTML e Css" height="200">
 
 <br><h2>Para acessar o site:</h2>
-<blockquote><b>Git page: (Ainda será gerado)</b></blockquote>
+<blockquote><b>Git page: (https://brunarosa.github.io/Barbearia_alura/index)</b></blockquote>
 
 <br><h2>Pré- requisitos</h2>
 
