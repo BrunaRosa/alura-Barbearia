@@ -28,7 +28,8 @@ Esse projeto não necessita instalar nenhum framework ou linguagem:
 
 <blockquote>
 <ul> 
-    <li>[HTML5 e CSS3 parte 1: A primeira página da Web] (https://cursos.alura.com.br/course/html5-css3-primeiros-passos?preRequirementFrom=html5-css3-posicionamento-listas-navegacao)</li>
+    <li>[HTML5 e CSS3 parte 1: A primeira página da Web] (https://cursos.alura.com.br/course/html5-css3-primeiros-passos)</li>
     <li>[HTML5 e CSS3 parte 2: Posicionamento, listas e navegação] (https://cursos.alura.com.br/course/html5-css3-posicionamento-listas-navegacao)</li>
+    <li>[HTML5 e CSS3 parte 3: Trabalhando com formulários e tabelas](https://cursos.alura.com.br/course/html5-css3-formularios-tabelas)</li>
 </ul>
 </blockquote>
